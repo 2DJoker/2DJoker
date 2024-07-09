@@ -1,4 +1,3 @@
-<h1 align="center">I'm 2D</h1>
 <p align="center">
 </p>
 
