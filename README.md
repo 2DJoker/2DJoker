@@ -1,6 +1,5 @@
 <p align="center">
 </p>
-![anime-boobs-anime gif](https://github.com/2DJoker/2DJoker/assets/109986015/0707cb64-9dc0-4035-94a6-4b5f5bc5e8d2)
 
 
 
