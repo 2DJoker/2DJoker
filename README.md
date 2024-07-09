@@ -7,8 +7,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+![Uploading anime-boobs-anime.gif…]()
 
-https://github.com/2DJoker/2DJoker/assets/109986015/2b005a75-bc92-4d2c-a998-9e59f5c066e5
+
 
 
 
