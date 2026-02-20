@@ -1,5 +1,4 @@
-<h1>Suzuki Yumi</h1>
-<p><img align="center" src="https://github.com/2DJoker/2DJoker/assets/109986015/942f02bb-b4c5-4aeb-a25e-bbb30468b596" /></p>
+<h1>PROXYESS shit code</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
